@@ -5,6 +5,7 @@ bin-release/
 [Bb]in/
 shards-dashboard-react/node_modules
 
+Frontend/node_modules/
 # Other files and folders
 .settings/
 
